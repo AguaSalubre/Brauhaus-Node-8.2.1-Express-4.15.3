@@ -1,0 +1,14 @@
+{
+  "name": "brauhaus",
+  "version": "1.0.0",
+  "description": "Brauhaus layout integration with Node 8.2.1 in Express 4.15.3 and Basic Routing ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AguaSalubre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+  }
+}
